@@ -1,1 +1,19 @@
+# Core Machine Learning
+torch
+torchvision
+numpy
 
+# Image Processing & Remote Sensing
+opencv-python
+scikit-image
+rasterio
+
+# Performance & Perceptual Metrics
+lpips
+
+# Web Dashboard & Deployment
+streamlit
+
+# Utility
+matplotlib
+pandas
