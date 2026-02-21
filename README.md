@@ -31,4 +31,4 @@ Our model outperforms baseline models (ResNet-UNet, Pix2Pix, CycleGAN):
 ![System Framework](assets/system_framework.png)
 
 ### Model Architecture
-![Agri-SAR-ViT Architecture](assets/architecture_diagram.jpg)
+![Agri-SAR-ViT Architecture](assets/architecture_diagram.png)
